@@ -26,7 +26,7 @@ Files:
 - photo_jpg - 7028 photos sized 256x256 in JPEG format
 - photo_tfrec - 7028 photos sized 256x256 in TFRecord format
 
-![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
+![alt images](https://github.com/ramruph/cycleGan-Monet-Painting/blob/main/code_images/imput%20image.png)
 
 
 
@@ -51,6 +51,5 @@ EPOCHS = 50
 BATCH_SIZE = 1
 
 # Results
-
-![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
+![alt images](https://github.com/ramruph/cycleGan-Monet-Painting/blob/main/code_images/output.png)
 
