@@ -15,7 +15,6 @@ Submissions are evaluated on MiFID (Memorization-informed Fréchet Inception Dis
 The smaller MiFID is, the better the generated images is.
 
 
-
 ## Data Description
 The monet directories contain Monet paintings. I use these images to train my model.
 
@@ -26,6 +25,8 @@ Files:
 - monet_tfrec - 300 Monet paintings sized 256x256 in TFRecord format
 - photo_jpg - 7028 photos sized 256x256 in JPEG format
 - photo_tfrec - 7028 photos sized 256x256 in TFRecord format
+
+![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
 
 
 
@@ -51,5 +52,5 @@ BATCH_SIZE = 1
 
 # Results
 
-insert image of results here
+![alt images](https://github.com/ramruph/cancer-detection-CNN/blob/main/images/output.png)
 
